@@ -40,13 +40,13 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **JOEL ANDRES ACOSTA SENTENO**
 
-- GitHub: [@jokerjaas2002](https://github.com/aristides1000)
+- GitHub: [@jokerjaas2002](https://github.com/jokerjaas2002)
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the
-[issues page](../../isuues/).
+[issues page](../../issues/).
 
 ## Show your support
 
